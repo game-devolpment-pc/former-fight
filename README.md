@@ -23,4 +23,4 @@ In order to win the game, the player must score more goals than the competitor.
 ### What platform is the game for?
 The game is mainly intended for computers but can be improved so that it will also support smartphones
 
-![image](https://user-images.githubusercontent.com/74486538/138956012-e121e14e-3cc3-4213-89e8-a5e1bf252cda.gif)
+![image](https://user-images.githubusercontent.com/74486538/138956746-7b412cfc-e61d-42b8-96bf-4a82926ee238.gif)
