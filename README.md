@@ -19,3 +19,6 @@ Better capabilities and performance for your team which is a collection of vehic
 
 ### The goal from the game (how to win!)
 In order to win the game, the player must score more goals than the competitor.
+
+### What platform is the game for?
+The game is mainly intended for computers but can be improved so that it will also support smartphones
